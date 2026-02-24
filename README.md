@@ -1,7 +1,3 @@
-# AI_Research_Paper_Analysis
-AI-powered research paper analysis system using Retrieval-Augmented Generation (RAG) for structured summarization and context-aware question answering.
-
-
 # ScholarRAG – AI Research Paper Analysis System
 
 ScholarRAG is an end-to-end AI-powered system that enables structured research paper analysis using Retrieval-Augmented Generation (RAG).
